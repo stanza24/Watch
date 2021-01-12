@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://watch/./src/style.less"],"names":[],"mappings":"AAAA;EACE;AACF","file":"bundle.css","sourcesContent":["body {\n  background: #dddddd;\n}\n"],"sourceRoot":""}
