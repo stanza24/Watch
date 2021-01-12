@@ -1,0 +1,35 @@
+{
+  "name": "telegramcontestcharts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanza24/Charts-Telegram-Contest.git"
+  },
+  "author": "Ivan Pankratov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanza24/Charts-Telegram-Contest/issues"
+  },
+  "homepage": "https://github.com/stanza24/Charts-Telegram-Contest#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "html-webpack-plugin": "^4.5.1",
+    "less": "^4.1.0",
+    "less-loader": "^7.2.1",
+    "mini-css-extract-plugin": "^1.3.3",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.12.3",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.1"
+  }
+}
