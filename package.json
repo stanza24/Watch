@@ -1,5 +1,5 @@
 {
-  "name": "telegramcontestcharts",
+  "name": "Watch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stanza24/Charts-Telegram-Contest.git"
+    "url": "git+https://github.com/stanza24/Watch.git"
   },
   "author": "Ivan Pankratov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stanza24/Charts-Telegram-Contest/issues"
+    "url": "https://github.com/stanza24/Watch/issues"
   },
-  "homepage": "https://github.com/stanza24/Charts-Telegram-Contest#readme",
+  "homepage": "https://github.com/stanza24/Watch#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
